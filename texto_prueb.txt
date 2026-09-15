@@ -1,1 +1,2 @@
-console.Write("Hola segundo comit");
+hola que tal
+
